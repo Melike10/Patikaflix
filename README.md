@@ -8,7 +8,6 @@ LINQ: Dizi listesi üzerinde veri sorgulama ve sıralama işlemleri için kullan
 ## Sınıflar
 ### 1. Movie Sınıfı
 Bu sınıf, bir dizinin temel özelliklerini tutar:
-
 MovieName: Dizinin adı.
 ProductionYear: Dizinin yapım yılı.
 Type: Dizinin türü (Komedi, Drama, Aksiyon, vb.).
